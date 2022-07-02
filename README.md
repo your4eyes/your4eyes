@@ -2,6 +2,7 @@ Hi! I'm 4eyes. Software engineer, Frontend/Backend developer, Pentester, Singer,
 
 Scripting languages I know:
 Bash, Javascript, Lua, PHP, and Powershell
+
 Programming languages I know:
 C, C#, C++, Java, Rust (Learning)
 
