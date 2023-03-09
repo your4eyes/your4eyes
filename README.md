@@ -1,4 +1,4 @@
-Hi! I'm 4eyes. Software engineer, Frontend/Backend developer, Pentester, Singer, and Artist.
+Hi! I'm 4eyes. Software engineer, Full stack developer, Pentester, Singer, and Artist.
 
 Scripting languages I know:
 Bash, Javascript, Lua, PHP, and Powershell
